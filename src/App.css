@@ -1,0 +1,17 @@
+/* .app{
+  display: grid;
+  grid-template-rows: 150px auto;
+  background-color: linear-gradient(#00c6ff, #0072ff);
+}
+
+.app_main{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 8%;
+}
+
+.task_column{
+  width: 33.33%;
+  background-color: aquamarine;
+  margin: 20px;
+} */
