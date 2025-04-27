@@ -4,7 +4,9 @@
 Home page displays the main page of the application which could undergo future changes and addition of more functionalities, while the ViewAll page
 holds [data fetched from a public API](http://jsonplaceholder.typicode.com/todos). Through an HTTP request to this API the list of todos is retrieved
 when the app is loaded.
-
+![home-page](./homepage.png)
+![viewall-page](./viewallpage.png)
+*Note:The green and red buttons in these tickets are respectively 'Complete' and 'Undo'. They are completely functional!*
 ## Used technologies:
  During the project development I used technologies like:
 - **React** -v19.0.0
